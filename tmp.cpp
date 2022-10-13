@@ -3,6 +3,5 @@ using namespace std;
 int main(){
     int a;
     int b = scanf("%d", &a);
-    cin
-    cout << a << ' ' << b << endl;
+    std::cout << a << ' ' << b << endl;
 }
