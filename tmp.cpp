@@ -6,4 +6,5 @@ int main(){
     std::cout << a << ' ' << b << endl;
     int x = 2;
     int y = 4;
+    int z = 10;
 }
