@@ -4,4 +4,5 @@ int main(){
     int a;
     int b = scanf("%d", &a);
     std::cout << a << ' ' << b << endl;
+    int x = 2;
 }
