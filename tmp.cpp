@@ -5,5 +5,5 @@ int main(){
     int b = scanf("%d", &a);
     std::cout << a << ' ' << b << endl;
     int x = 2;
-    int y = 3;
+    int y = 4;
 }
